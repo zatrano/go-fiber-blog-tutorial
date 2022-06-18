@@ -1,2 +1,3 @@
-# go-fiber-blog-tutorial
-Go Fiber Blog Tutorial
+# go-blog-tutorial
+
+go fiber gorm postgresql zap
